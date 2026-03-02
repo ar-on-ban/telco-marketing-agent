@@ -1,0 +1,19 @@
+# Credentials
+.env
+service_account.json
+
+# Runtime caches
+data_cache.json
+output_cache.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code internal
+SKILL-backup.md
+
+# OS
+.DS_Store
